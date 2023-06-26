@@ -62,4 +62,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :memo:  Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/controle-de-habitos/blob/main/LICENSE">LICENCE</a> para mais detalhes.
