@@ -53,12 +53,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   $ npm install
 ```
 
+```bash
+  # Usar
+  $ npm start
+```
+
 <p align="center">Ou</p>
 
 ```bash
   # Instale as dependências utilizando o yarn
   $ yarn
 ```
+
+## 👤  Autor
+
+**Antonio  Carlos**
+
+* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior-03783221b/)
+* [Gmail](mailto:acarlosdesouzajunior@gmail.com)
+* [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
+* [Discord](https://discord.com/channels/@me)
 
 ## :memo:  Licença
 
