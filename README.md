@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```
 
 ```bash
-  # Usar
+  # Executar
   $ npm start
 ```
 
@@ -65,6 +65,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
   # Instale as dependências utilizando o yarn
   $ yarn
+```
+
+```bash
+  # Executar
+  $ yarn start
 ```
 
 ## 👤  Autor
