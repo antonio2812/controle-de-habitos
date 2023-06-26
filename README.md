@@ -25,7 +25,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 ## 💻  Projeto
 
-O Habits é um app para ajudar a rastrear/controlar os hábitos. Construindo assim uma rotina mais produtiva.
+O Habits é um app para ajudar a rastrear/controlar os hábitos e construir uma rotina mais produtiva. Desenvolvido durante o NLW-Setup na trilha explorer, evento organizado pela Rocketseat.
 
 [Visite o projeto online](https://antonio2812.github.io/controle-de-habitos)
 
