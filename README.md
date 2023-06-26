@@ -9,6 +9,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#--como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--mostre-seu-apoio">Mostre seu apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo--licença">Licença</a>
 </p>
 
@@ -75,6 +76,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
 * [Discord](https://discord.com/channels/@me)
 
+## ✨  Mostre seu apoio
+
+Dar uma⭐️se esse projeto te ajudou ou inspirou!
+
 ## :memo:  Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/controle-de-habitos/blob/main/LICENSE">LICENCE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/controle-de-habitos/blob/main/LICENSE">LICENSE</a> para mais detalhes.
