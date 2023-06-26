@@ -53,7 +53,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   $ npm install
 ```
 
-<p align="center">ou</p>
+<p align="center">Ou</p>
 
 ```bash
   # Instale as dependências utilizando o yarn
