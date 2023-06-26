@@ -7,7 +7,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <p align="center">
   <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#--"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo--licença">Licença</a>
 </p>
 
@@ -27,7 +27,7 @@ O Habits é um app para ajudar a rastrear/controlar os hábitos. Construindo ass
 
 [Visite o projeto online](https://antonio2812.github.io/controle-de-habitos)
 
-## 🚀  Tecnologias
+## ⚡  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -36,7 +36,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+## 🤝  Como Contribuir
 
+```bash
+  # Clone o projeto
+  $ git clone https://github.com/antonio2812/controle-de-habitos.git
+````
+
+```bash
+  # Entrar no diretório
+  $ cd controle-de-habitos
+```
+
+```bash
+  # Instale as dependências utilizando o npm
+  $ npm install
+```
+
+<p align="center">ou</p>
+
+```bash
+  # Instale as dependências utilizando o yarn
+  $ yarn
+```
 
 ## :memo:  Licença
 
